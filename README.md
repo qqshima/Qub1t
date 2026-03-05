@@ -1,2 +1,55 @@
 # Qub1t
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%D0%9A%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D1%8C+%E2%80%94+%D1%8D%D1%82%D0%BE+%D0%B7%D0%B0%D1%89%D0%B8%D1%82%D0%B0+%D1%86%D0%B8%D1%84%D1%80%D0%BE%D0%B2%D1%8B%D1%85+%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%2C+%D1%81%D0%B5%D1%82%D0%B5%D0%B9%2C+%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC+%D0%B8+%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85+%D0%BE%D1%82+%D0%BA%D1%80%D0%B0%D0%B6%D0%B8%2C+%D0%BF%D0%BE%D0%B2%D1%80%D0%B5%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F+%D0%B8%D0%BB%D0%B8+%D0%BD%D0%B5%D1%81%D0%B0%D0%BD%D0%BA%D1%86%D0%B8%D0%BE%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE+%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF%D0%B0)](https://git.io/typing-svg)
+<!-- Шапка / баннер (самое заметное) -->
+<p align="center">
+  <img src="https://github.com/твой_ник/твой_ник/blob/main/banner.gif" width="800" alt="Красивый баннер"/>
+</p>
+
+<!-- Приветствие с анимацией набора текста -->
+<h1 align="center">
+  Привет! Я <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00FF00&width=435&lines=Frontend+разработчик;Люблю+React+и+TypeScript;Пишу+чистый+код" alt="анимация текста" />
+</h1>
+
+<!-- Коротко о себе (2–4 строки) -->
+<p align="center">
+  🚀 Делаю быстрые и красивые интерфейсы<br>
+  🛠️ Стек: React • Next.js • TypeScript • Tailwind • Zustand<br>
+  📍 Киев / Remote • ищу интересные проекты
+</p>
+
+<!-- Иконки соцсетей / контакты -->
+<p align="center">
+  <a href="https://t.me/твой_ник"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/твой_ник"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:почта@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+<!-- Статистика (очень популярно в 2025–26) -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=твой_ник&show_icons=true&theme=radical&hide_border=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=твой_ник&theme=radical&hide_border=true" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=твой_ник&layout=compact&theme=radical&hide_border=true" width="48%"/>
+</p>
+
+<!-- Технологии (иконки) -->
+<h3 align="center">Технологии, с которыми работаю:</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,redux,nodejs,git,figma,vite,postgres" alt="stack"/>
+</p>
+
+<!-- pinned проекты (закрепи 4–6 лучших репозиториев прямо в настройках профиля) -->
+
+<!-- Дополнительно (по желанию) -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=твой_ник&label=Profile+views&color=brightgreen&style=flat-square" alt="просмотры"/>
+  <br><br>
+  <img src="https://github-profile-trophy.vercel.app/?username=твой_ник&theme=radical&no-frame=true&margin-w=15" alt="трофеи"/>
+</p>
+
+<!-- Забавная гифка или шутка в конце -->
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="200"/>
+  <br>Кодить под кофе и мемасы — мой ритуал ☕😂
+</p>
