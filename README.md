@@ -13,7 +13,6 @@
 <p align="center">
   🚀 Изучаю звщиту<br>
   🛠️ Стек: React • Next.js • TypeScript • Tailwind • Zustand<br>
-  📍 / Remote • ищу интересные проекты
 </p>
 
 <!-- Иконки соцсетей / контакты -->
